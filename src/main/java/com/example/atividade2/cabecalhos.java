@@ -1,4 +1,4 @@
-package com.example.atividade1;
+package com.example.atividade2;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;

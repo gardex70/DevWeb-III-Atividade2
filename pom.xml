@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>Atividade-1</artifactId>
+    <artifactId>Atividade-2</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>Atividade-1</name>
+    <name>Atividade-2</name>
     <packaging>war</packaging>
 
     <properties>

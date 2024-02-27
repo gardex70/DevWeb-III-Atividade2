@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Desenvolvuimento Web III Atividade - 2</title>
+    <title>Desenvolvimento Web III Atividade - 2</title>
 </head>
 <body>
 <h1><%= "Desenvolvuimento Web III Atividade - 2" %>
